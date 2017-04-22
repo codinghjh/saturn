@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apacheDemo/Apache.iml" filepath="$PROJECT_DIR$/apacheDemo/Apache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/effectivejava/effectiveJava.iml" filepath="$PROJECT_DIR$/effectivejava/effectiveJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava/guavaApi.iml" filepath="$PROJECT_DIR$/guava/guavaApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFoundation/javaFoudation.iml" filepath="$PROJECT_DIR$/JavaFoundation/javaFoudation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Apache" />
+        <module name="effectiveJava" />
+        <module name="guavaApi" />
+        <module name="javaFoudation" />
+        <module name="jvm" />
+        <module name="patterns" />
+        <module name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Apache" target="1.7" />
+      <module name="effectiveJava" target="1.7" />
+      <module name="guavaApi" target="1.7" />
+      <module name="GuavaReade" target="1.7" />
+      <module name="javaFoudation" target="1.7" />
+      <module name="jvm" target="1.7" />
+      <module name="jvm_demo" target="1.7" />
+      <module name="jvmDemo" target="1.7" />
+      <module name="patterns" target="1.7" />
+      <module name="test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
