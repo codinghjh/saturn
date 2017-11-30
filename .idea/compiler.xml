@@ -18,7 +18,7 @@
     <bytecodeTargetLevel>
       <module name="Apache" target="1.7" />
       <module name="effectiveJava" target="1.7" />
-      <module name="guavaApi" target="1.7" />
+      <module name="guavaApi" target="1.8" />
       <module name="GuavaReade" target="1.7" />
       <module name="javaFoudation" target="1.7" />
       <module name="jvm" target="1.7" />
