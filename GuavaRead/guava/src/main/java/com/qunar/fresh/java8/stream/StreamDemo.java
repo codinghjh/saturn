@@ -1,6 +1,5 @@
 package com.qunar.fresh.java8.stream;
 
-import static com.sun.tools.doclint.Entity.sum;
 import static java.util.stream.Collectors.toList;
 
 import java.util.List;
@@ -62,5 +61,14 @@ public class StreamDemo {
 
         Integer reduceClassSum = numbers1.stream().reduce(0, Integer::sum);
         System.out.println(reduceClassSum);
+
+        Optional<Integer> max = numbers1.stream().reduce(Integer::max);
+        System.out.println(max);
+
+        Optional<Integer> min = numbers1.stream().reduce(Integer::min);
+        System.out.println(min);
+
+        long count = numbers1.stream().count();
+        System.out.println(count);
     }
 }
