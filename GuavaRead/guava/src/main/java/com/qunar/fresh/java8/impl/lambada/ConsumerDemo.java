@@ -1,4 +1,4 @@
-package com.qunar.fresh.java8.lambada;
+package com.qunar.fresh.java8.impl.lambada;
 
 import com.google.common.collect.Lists;
 

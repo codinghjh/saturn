@@ -1,5 +1,6 @@
-package com.qunar.fresh.java8.lambada;
+package com.qunar.fresh.java8.impl.lambada;
 
+import com.qunar.fresh.java8.BufferedReaderProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

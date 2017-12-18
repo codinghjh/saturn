@@ -1,4 +1,4 @@
-package com.qunar.fresh.java8.lambada;
+package com.qunar.fresh.java8;
 
 import java.io.BufferedReader;
 import java.io.IOException;

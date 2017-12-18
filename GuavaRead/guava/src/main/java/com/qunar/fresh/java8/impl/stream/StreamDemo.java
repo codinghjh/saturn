@@ -1,4 +1,4 @@
-package com.qunar.fresh.java8.stream;
+package com.qunar.fresh.java8.impl.stream;
 
 import static java.util.stream.Collectors.toList;
 
