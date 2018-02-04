@@ -35,10 +35,26 @@
         <jackson-mapper.version>1.9.13</jackson-mapper.version>
         <google-gson.version>2.8.0</google-gson.version>
         <netty-all.version>5.0.0.Alpha1</netty-all.version>
+        <marshalling.version>2.0.2.Final</marshalling.version>
     </properties>
 
     <dependencyManagement>
         <dependencies>
+
+            <!-- https://mvnrepository.com/artifact/org.jboss.marshalling/jboss-marshalling -->
+            <dependency>
+                <groupId>org.jboss.marshalling</groupId>
+                <artifactId>jboss-marshalling</artifactId>
+                <version>${marshalling.version}</version>
+            </dependency>
+
+            <!-- https://mvnrepository.com/artifact/org.jboss.marshalling/jboss-marshalling-serial -->
+            <dependency>
+                <groupId>org.jboss.marshalling</groupId>
+                <artifactId>jboss-marshalling-serial</artifactId>
+                <version>2.0.2.Final</version>
+                <scope>test</scope>
+            </dependency>
 
             <dependency>
                 <groupId>com.google.code.gson</groupId>
